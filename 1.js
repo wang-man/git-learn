@@ -6,3 +6,4 @@ var b = 456;
 
 'test'
 'test2'
+'test3'
