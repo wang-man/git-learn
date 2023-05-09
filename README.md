@@ -4,3 +4,5 @@
 ## merge与rebase的区别
 
 ## pull origin master --rebase命令
+
+## rebase 的好处
